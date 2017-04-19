@@ -5,16 +5,7 @@ passos
 
 151
 
-BRANCA
-
-Everardo Rocha
-
-o que é
-mito
-
-editora brasiliense
-
-Copyright © by Everardo P. G. Rocha
+Copyright © by Everardo P. G. Rocha
 Nenhuma parte desta publicação pode ser gravada,
 armazenada em sistemas eletrônicos, fotocopiada,
 reproduzida por meios mecânicos ou outros quaisquer
@@ -48,7 +39,7 @@ www.editorabrasiliense.com.br
 
 CDD-306.4
 
-Índice
+Índice
 
 I - O labirinto dos mitos .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7
 II - O encontro .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 15
@@ -58,19 +49,20 @@ V - A saída?... Onde fica a saída? .  .  .  .  .  .  .  .  .  .  .  . 91
 Indicações para leitura . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 95
 Sobre o autor .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 98
 
-Este livro é dedicado a Claude
+Este livro é dedicado a Claude
 Lévi-Strauss e Roberto da Matta,
 que me ensinaram a viajar nos mitos.
 
-I
 
-O labirinto dos mitos
+
+# O labirinto dos mitos
 
 O mito é uma narrativa. É um discurso, uma fala.
 É uma forma de as sociedades espelharem suas contradições, exprimirem seus paradoxos, dúvidas e inquietações. Pode ser visto como uma possibilidade de se refletir sobre a existência, o cosmo, as situações de “estar
 no mundo” ou as relações sociais.
+
 Mas o mito é também um fenômeno de difícil definição. Por trás dessa palavra pode estar contida toda
-uma constelação, uma gama versificada de idéias. O
+uma constelação, uma gama versificada de ideias. O
 mito faz parte daquele conjunto de fenômenos cujo
 sentido é difuso, pouco nítido, múltiplo. Serve para significar muitas coisas, representar várias idéias, ser usado
 em diversos contextos. Qualquer um pode, sem cerimônia, utilizar a palavra para designar desde o “mito” de
@@ -79,20 +71,17 @@ da mulher amada ou da eterna juventude. O mito é
 também uma palavra que está em moda. Um conceito
 amplo e complexo, por trás de uma palavra chique.
 
-8
-
-Everardo Rocha
-
 Por tudo isso: vamos caminhar com cuidado.
 Tateando, pouco a pouco, na busca dos principais fios
 condutores que mostrem as entradas (e principalmente) as saídas deste labirinto de idéias em torno do mito.
-Vamos saber o que é mito como quem arma um quebra-cabeças. Juntando peças espalhadas e vendo surgir
-o esboço de uma figura.
+Vamos saber o que é mito como quem arma um quebra-cabeças. Juntando peças espalhadas e vendo surgir o esboço de uma figura.
+
 Talvez a peça fundamental desse complicado
 quebra-cabeças seja aquilo que está dito lá em cima na
 primeira frase: o mito é uma narrativa, uma fala. Esta
 é a noção mais básica, ampla e geral que se pode ter do
 mito. Acho que os mais diferentes “mitólogos” concordariam com ela.
+
 Mas o mito não seria uma narrativa ou uma fala
 qualquer. Se assim o fosse, ele se descaracterizaria, perderia sua especificidade. Seria tragado, submerso pelo
 oceano de narrativas, falas e discursos humanos. O que
@@ -101,19 +90,16 @@ possuir e organizar símbolos que se tornam linguagens
 articuladas, aptas a produzir qualquer tipo de narrativa.
 O ser humano fala e muito. Se o mito fosse uma narrativa ou uma fala qualquer, estaria diluído completamente.
 O mito é, então, uma narrativa especial, particular, capaz de ser distinguida das demais narrativas humanas.
+
 Pensando nisso podemos analisar algumas definições correntes do mito que ajudem a avançar com o
 quebra-cabeças. Rápido na direção do dicionário. Ele é
 uma espécie de definidor curto e grosso, rápido e rasteiro dos termos de uma língua. Essa é sua generosa
-
-O que é Mito
-
-9
-
 função. Seria impossível falar sério e profundamente
 sobre centenas de milhares de palavras. Por isso, o dicionário fala ligeiro, e o melhor deles, o do Aurélio, diz
 que o mito é o seguinte: “Fato, passagem dos tempos
 fabulosos; tradição que, sob forma de alegoria, deixa
 entrever um fato natural, histórico ou filosófico; (sentido figurado) coisa inacreditável, sem realidade”.
+
 Essa definição corrente, usual, do mito pode nos
 levar a algumas discussões. De saída, o dicionário situa
 o mito como um “fato” ou “passagem” muito antigo.
@@ -122,86 +108,68 @@ nos “tempos fabulosos”. Diz ainda que por trás do mito
 existe uma tradição. Ou melhor, que ele próprio é uma
 tradição. O mito teria uma forma alegórica que “deixa
 entrever um fato natural, histórico ou filosófico”. Isso
-parece muito interessante. A partir dessa idéia podemos pensar que o mito carrega consigo uma mensagem
-que não está dita diretamente. Uma mensagem cifrada.
+parece muito interessante. A partir dessa ideia podemos pensar que o mito carrega consigo uma mensagem que não está dita diretamente. Uma mensagem cifrada.
 O mito esconde alguma coisa. O que ele procura dizer
 não é explicitado literalmente. Não “está na cara”. O
 mito não é “objetivo”. Tipo pão, pão, queijo, queijo. O
-que ele afirma o faz, de toda evidência, com muita sutileza. O mito fala enviesado, fala bonito, fala poético.
-Fala sério sem ser direto e óbvio.
+que ele afirma o faz, de toda evidência, com muita sutileza. O mito fala enviesado, fala bonito, fala poético. Fala sério sem ser direto e óbvio.
+
 Há um outro ponto da definição do dicionário que
 parece importante. É o que ele chama de sentido figurado. O mito é uma “coisa inacreditável”. Algo “sem realidade”. Em outras palavras: o mito é mentira. Este é um
-dos usos mais freqüentes da palavra no cotidiano. Ou-
-
-10
-
-Everardo Rocha
-
-vimos constantemente frases como; “Ah! isso é mito”.
-Como quem diz que isso é mentira, “cascata”, coisa
+dos usos mais freqüentes da palavra no cotidiano. Ouvimos constantemente frases como; “Ah! isso é mito”. Como quem diz que isso é mentira, “cascata”, coisa
 irrelevante. Outra frase muito comum é “esses são os
 seus mitos particulares”, no sentido de ser o seu delírio,
 ou a sua viagem, ou a sua fantasia. Se, por aí, o mito está
 identificado com a mentira, evidentemente ele é o oposto da verdade. Quem fala o mito não fala a verdade.
+
 Mas, ainda assim, o mito funciona socialmente.
 Existem bocas para dizê-lo e ouvidos para ouvi-lo. O
 mito está aí na vida social, na existência. Sua “verdade”, conseqüentemente, deve ser procurada num outro nível, talvez, numa outra lógica.
+
 Até aqui especulamos apenas sobre a definição
 dicionarizada do mito, e já tocamos levemente a confusão. Recapitulando, vale a pena reter alguns aspectos.
 Outras pequenas peças do quebra-cabeças. Vejamos:
-1) O mito está localizado num tempo muito antigo, “fabuloso”. Nos tempos da “aurora” do homem; ou, pelo
-menos, os homens o colocam nos seus tempos da “aurora”, fora da história. 2) O mito não fala diretamente,
-ele esconde alguma coisa. Guarda uma mensagem cifrada. O mito precisa ser interpretado. Finalmente. 3)
-O mito não é verdadeiro no seu conteúdo manifesto,
+1) O mito está localizado num tempo muito antigo, “fabuloso”. Nos tempos da “aurora” do homem; ou, pelo menos, os homens o colocam nos seus tempos da “aurora”, fora da história. 2) O mito não fala diretamente,
+ele esconde alguma coisa. Guarda uma mensagem cifrada. O mito precisa ser interpretado. Finalmente. 3) O mito não é verdadeiro no seu conteúdo manifesto,
 literal, expresso, dado. No entanto, possui um valor e,
 mais que isso, uma eficácia na vida social.
+
 Vamos tomar o primeiro ponto. Aqui o problema
 é o da localização do mito no tempo. Quando surgem
 os mitos? Quando aconteceram os fatos sobre os quais
 eles falam? Essas questões foram o pretexto para várias
-
-O que é Mito
-
-11
-
 polêmicas, análises e estudos. Elas compõem o extenso
 quadro das questões da origem. A origem do universo, a
 origem da Terra, a origem da vida, a origem do homem,
 a origem das línguas. A temática das origens das coisas
 sempre foi uma preocupação de muita gente. Conseqüentemente, a origem do mito não poderia estar ausente dessa constante divagação sobre as origens de tudo.
+
 Mas a questão da origem (seja do que for) corre
 o perigo de ser uma falsa questão. Em primeiro lugar,
 porque quase todas as origens estariam perdidas, seriam a improvável localização e o que teria ali acontecido são conjecturas, especulações e hipóteses de difícil
-comprovação. Em segundo lugar, e aqui está o principal, a origem de uma coisa não garante a explicação
-do seu estado atual. A origem do homem, por exemplo, vindo do macaco, de outro planeta ou do paraíso,
-dificilmente serviria para explicá-lo nas suas múltiplas
-possibilidades existenciais.
+comprovação. Em segundo lugar, e aqui está o principal, a origem de uma coisa não garante a explicação do seu estado atual. A origem do homem, por exemplo, vindo do macaco, de outro planeta ou do paraíso, dificilmente serviria para explicá-lo nas suas múltiplas possibilidades existenciais.
+
 O segundo ponto ao qual nos levou a definição
 do dicionário é quanto ao fato de o mito possuir uma
 mensagem cifrada. Mais diretamente isto quer dizer
 que o mito atrai a interpretação. E interpretações é o
 que não falta ao mundo dos mitos.
+
 A antropologia, por exemplo, possui uma vastíssima coleção de interpretações de mitos. Esses trabalhos dos antropólogos, via de regra, têm por finalidade
 interpretar o mito para descobrir o que este pode revelar sobre as sociedades de onde o mito provém. E
 a interpretação do mito como forma de compreender
-
-12
-
-Everardo Rocha
-
-determinada estrutura social. Nessa linha, a antropologia usualmente assume a existência de uma relação
-entre o mito e o contexto social. O mito é, pois, capaz
+determinada estrutura social. Nessa linha, a antropologia usualmente assume a existência de uma relação entre o mito e o contexto social. O mito é, pois, capaz
 de revelar o pensamento de uma sociedade, a sua concepção da existência e das relações que os homens devem manter entre si e com o mundo que os cerca. Isso
 é possível de ser investigado tanto pela análise de um
 único mito quanto de grupos de mitos e até mesmo da
 mitologia completa de uma sociedade. Não existe aqui
-uma única regra, e as soluções analíticas são bastante variáveis. Acredito, sem dúvida, que a Antropologia
-Social é a disciplina que foi mais longe e faz a mais proveitosa viagem ao entendimento do universo mítico.
+uma única regra, e as soluções analíticas são bastante variáveis. Acredito, sem dúvida, que a Antropologia Social é a disciplina que foi mais longe e faz a mais proveitosa viagem ao entendimento do universo mítico.
+
 A psicanálise também interpretou mitos. Freud
 fez uma brilhante e famosa interpretação do mito de
 Édipo. De quebra, ainda inventou alguns mitos importantes. A psicanálise de Carl Gustav Jung, conhecida
 como psicologia analítica ou junguiana, não se cansa de
-interpretar mitos. Grosso modo, para eles, os mitos estão
+interpretar mitos. *Grosso modo*, para eles, os mitos estão
 todos numa região da mente humana, a que chamam inconsciente coletivo, uma espécie de repositório que todos possuímos da experiência coletiva. Nesse lugar, os
 mitos se encontram. O inconsciente coletivo é, como
 o nome diz, algo compartilhado pela humanidade toda,
@@ -209,20 +177,17 @@ o nome diz, algo compartilhado pela humanidade toda,
 cada um de nós. Assim, eles explicam como os mitos do
 Sol podem aparecer desde o Egito antigo até os incas
 da América do Sul, passando, quem sabe, pela praia de
-
-O que é Mito
-
-13
-
 Ipanema a cada verão. A hipótese junguiana dos “conteúdos” que guardamos dos mitos é um tanto problemática, se bem que, para muitos, é também altamente
 sedutora. Vamos vê-Ia melhor no próximo capítulo.
+
 A essas interpretações várias que o mito desafia podemos somar outras tantas. Os historiadores das
 religiões, os estudiosos de mitologias, os teólogos, etc.
-possuem todos suas linhas, seus métodos e suas hipóteses interpretativas. O que subsiste de comum nesses
-muitos e alternativos discursos sobre o mito é a idéia
+possuem todos suas linhas, seus métodos e suas hipóteses interpretativas. O que subsiste de comum nesses muitos e alternativos discursos sobre o mito é a idéia
 constante de que o mito está, efetivamente, ligado à
 possibilidade de ser interpretado.
+
 O terceiro ponto a que chamei a atenção na definição do dicionário é quanto à relação entre mito e verdade.
+
 Aqui o aspecto principal é que, embora o mito
 possa não ser a verdade, isto não quer dizer que seja
 sem valor. A eficácia do mito e não a verdade é que deve
@@ -236,14 +201,11 @@ determinado acontecimento. Nesse sentido, procurar
 saber se o mito diz estritamente a verdade torna-se
 uma tarefa, na melhor das hipóteses, inútil.
 
-14
-
-Everardo Rocha
-
 Qualquer verdade que por acaso se encontre no
 mito será relativa, seja porque a própria definição de
 verdade é problemática, seja porque o mito não parece
 estar muito preocupado com ela.
+
 Creio que já fomos longe demais com a definição
 do dicionário. Ela nos levou a tocar em pontos importantes para o quebra-cabeça do mito. Vimos um pouco
 da questão da origem, da questão da verdade e da questão da interpretação. Esses três temas que navegam em
@@ -253,6 +215,7 @@ ele não se propõe possuir, fica a sua sempre presença,
 seus desconhecidos autores, sua improvável localização
 no tempo. Da interpretação que ele nos propõe como
 enigma, ficam as mais diversas tentativas do pensamento humano tanto de criá-lo quanto de analisá-lo.
+
 O que vamos juntos fazer agora é uma viagem
 por alguns dos caminhos do labirinto dos mitos. Não
 quero que esta viagem assuma ares de uma excursão
@@ -262,41 +225,35 @@ míticas. Deixar que o mito nos trace o percurso. Navegar no labirinto dos mitos
 mais estar no submarino amarelo que num navio convencional. As viagens, suas rotas e procuras é que são,
 de fato, um grande mito.
 
-II
-
-O encontro
+# O encontro
 
 Preparativos, projetos, malas feitas. Da confusão
 da partida se despede o viajante. Pela porta principal
 se convida a entrar no labirinto dos mitos. Sem saídas,
 ficamos com a pergunta: o que é mito?
+
 Já vimos o que ele é para o dicionário. Já refletimos sobre essa definição. Já investigamos algumas
 questões que se colocam em torno do mito. Já andamos, falamos e pensamos mitos. Já sentimos, enfim,
 que a “barra é pesada”. Esta é a graça do mito. Ele há
-de ser sempre desafio, abertura, enigma. É livre e sábio o suficiente para não temer a morte, não se deixar
-escravizar por conceitos que o obriguem a ser isso ou
+de ser sempre desafio, abertura, enigma. É livre e sábio o suficiente para não temer a morte, não se deixar escravizar por conceitos que o obriguem a ser isso ou
 aquilo e só.
+
 O mito está na existência. Resiste a tudo, fazendo no fundo com que suas interpretações sejam, quase sempre, matéria-prima para novos mitos. Por isso,
-
-16
-
-Everardo Rocha
-
 a pergunta “O que é mito?” muito provavelmente não
 tem resposta. Por isso, nossos constantes apelos à imagens de labirintos, quebra­-cabeças, viagens. Creio que
 isso é o melhor que se pode fazer. É mais ou menos
-como aquelas famosas redações com tema livre das aulas de português. O que se pode fazer de melhor com
-um tema livre do que mantê-lo liberto? O mito é assim.
+como aquelas famosas redações com tema livre das aulas de português. O que se pode fazer de melhor com um tema livre do que mantê-lo liberto? O mito é assim.
 É melhor não tentar entendê-lo como uma regra, uma
 questão de múltipla escolha, uma prova final. É melhor
-viajar nele como numa emoção, num pensamento furtivo, num novo desejo ou num velho prazer. Não vamos
-saber o que é mito. Nem ele próprio o saberia.
+viajar nele como numa emoção, num pensamento furtivo, num novo desejo ou num velho prazer. Não vamos saber o que é mito. Nem ele próprio o saberia.
+
 Mas poderíamos saber agora, senão o que é mito,
 pelo menos quem é o mito. Seria mais uma peça do
 quebra-cabeças, uma curva no labirinto, uma pausa na
 viagem. Vamos contemplar um mito e ver no que dá.
 Você, leitor, face a face com ele, talvez possa intuir seu
 significado, dar sua própria interpretação. Experimentá-lo na plenitude de um encontro. Vale a pena.
+
 Vou, então, transcrever aqui um mito. Organizar
 as palavras numa forma tal que adquira os contornos
 indiscutíveis de um discurso mítico. Qualquer estudioso
@@ -304,16 +261,11 @@ de mitologia não teria dúvidas em afirmar a “natureza” da narrativa que va
 é um mito. Com toda a força de suas características.
 Todas as marcas do seu gênero de narrativa. Assim,
 entre as inúmeras escolhas possíveis, optei por um muito famoso. Já foi tema de importantes estudos, possui
-
-O que é Mito
-
-17
-
 muitas versões. É um clássico da literatura mitológica
-dos índios de língua jê. Aparece entre os gaviões, os canelas, os krikatis, os krahós, os apinajés, os caiapós, os
-xerentes, os xavantes, os bororos. Vamos então a esse
+dos índios de língua jê. Aparece entre os gaviões, os canelas, os krikatis, os krahós, os apinajés, os caiapós, os xerentes, os xavantes, os bororos. Vamos então a esse
 mito que, de uma forma ou de outra, nos aproxima dos
 nossos índios.
+
 Atenção! Se liguem no “clima” e entrem no “astral” do momento. Comecem a ouvir os barulhos da selva
 ao redor, do crepitar da fogueira, do riacho. Som e silêncio à nossa volta. No céu e na terra, as cores do crepúsculo, em tons fortes e escuros, propiciam uma estranha
 luminosidade. É quase noite, faz frio. Um velho índio,
@@ -324,50 +276,47 @@ e felizes. Num gesto vigoroso e preciso, rápido demais
 para sua idade, o índio pega um galho incandescente da
 fogueira. Nosso olhar o acompanha num ritmo magnético. Do fogo ao Sol poente tudo se confunde. Sua voz
 soa nítida, mais forte que todas as cores:
+<!-- verso -->
 Houve um tempo em que os homens
 não possuíam o fogo. Era um tempo difícil. Para
 não comer carne totalmente crua, ela era torrada ao calor do sol, sobre uma laje de pedra.
 Aí um homem descobriu uma ninhada de
 araras no alto de um paredão de pedra-a-pique.
 
-18
-
-Everardo Rocha
-
 Ele levou seu cunhado, ainda menino pequeno, para tirar os filhotes. Cortou uma árvore
 e encostou-a no paredão, fazendo uma escada
 para o menino subir. Quando o menino, porém,
 foi agarrar os filhotes, eles gritaram tanto que
 ele teve medo de tocá-los. O homem insistiu
-muito para que o menino jogasse logo os filhotes lá para baixo. Como este hesitasse e ainda
-demonstrasse medo, o homem zangou-se e atirou a árvore para o lado voltando sozinho para
-casa. O menino ficou preso.
+muito para que o menino jogasse logo os filhotes lá para baixo. Como este hesitasse e ainda demonstrasse medo, o homem zangou-se e atirou a árvore para o lado voltando sozinho para casa. O menino ficou preso.
+
 Como sem a árvore não podia descer, o
 pequeno ficou sentado ao lado do ninho.
+
 Ele ficou com muita sede, quase morreu.
 As araras velhas, voando em cima, defecavam
 na sua cabeça a ponto de ele criar vermes. Os
 filhotes, no entanto, pouco tempo depois perderam o medo.
+
 Nisso uma onça passou perto do paredão. Viu a sombra do menino e tentou agarrálo quando ele moveu um braço. Aí, o menino
 cuspiu para baixo. A onça levantou a cabeça e
 vendo-o, perguntou: “O que você está fazendo aí em cima?” Ao que o menino respondeu:
 “Meu cunhado me mandou pegar os filhotes
 das araras, e como eu não tive coragem de pegá-los, ele ficou zangado e derrubou a escada
 por onde eu tinha subido”.
+
 A onça então mandou que ele atirasse
 os filhotes. Quando o menino finalmente obedeceu, a onça apanhou e devorou todos eles.
-
-O que é Mito
-
 “Agora salta você também”, ordenou a onça.
 O menino não quis fazer o que ela mandava
 com medo de ser devorado também. “Não, eu
 não comerei você. Salta logo que eu vou aparar
 a sua queda”, sossegou-o a onça.
+
 Finalmente, o menino decidiu saltar.
-Atirou-se lá do alto e a onça conseguiu apanhálo no ar entre as patas dianteiras. Levou-o para
-junto de um ribeirão, fez com que ele bebesse
+Atirou-se lá do alto e a onça conseguiu apanhálo no ar entre as patas dianteiras. Levou-o para junto de um ribeirão, fez com que ele bebesse
 água, lavou-o e o levou para casa.
+
 Na casa da onça havia um grande moquém com muita carne. Debaixo dele, um
 enorme tronco de jatobá em brasa. A onça
 deu ao menino um bom pedaço do moqueado. Deixou-o em companhia de sua mulher e
@@ -377,6 +326,7 @@ quando o menino estalou entre os dentes um
 pedaço do moqueado bem tostadinho. “Meu
 neto!”, ela gritou, ameaçando com as unhas e
 rosnando para ele.
+
 O menino, muito assustado, fez queixa
 à onça quando esta voltou. A onça lhe fez um
 arco e flechas. Explicou que, se a onça-fêmea
@@ -384,142 +334,113 @@ outra vez se enfurecesse com ele, era para o
 menino atirar na palma da mão dela. Depois era
 para fugir pelo caminho que ela ensinou que ia
 de volta à aldeia.
+
 Quando a onça partiu outra vez pra caçar, o menino teve fome de novo. Tirou um pedaço do moqueado e comeu. Imediatamente, a
-
-19
-
-20
-
-Everardo Rocha
-
 onça-fêmea se irritou com o ruído de mastigar
 e, furiosa, mostrou as unhas. Na terceira vez
 que ela repetiu esse gesto o menino flechou-lhe
 a mão e fugiu. A onça-fêmea não pôde persegui-lo porque estava grávida.
+
 Seguindo o caminho que a onça ensinara, o menino foi parar na aldeia. Ali, contou ao
-seu pai tudo o que havia acontecido. Contou
-que na casa da onça havia fogo e como era gostoso o moqueado.
+seu pai tudo o que havia acontecido. Contou que na casa da onça havia fogo e como era gostoso o moqueado.
+
 O pai foi ao pátio, reuniu os chefes e o
 conselho, e relatou tudo. Eles resolveram logo
 que iam buscar o fogo para a aldeia.
+
 Colocaram vários homens espalhados
 em todo o caminho da aldeia até a casa da
 onça. O melhor corredor de todos ia entrar na
 casa com o sapo. A onça não estava em casa,
 e o homem agarrou rápido o tronco de jatobá
 aceso e correu com ele.
+
 A onça-fêmea pediu que lhe deixasse ao
 menos um tição. Mas nada ficou, pois o sapo
 cuspiu em tudo, apagando todas as brasas que
 ainda se achavam pelo chão em volta.
+
 O homem com o tronco de jatobá aceso correu muito até chegar ao primeiro estafeta que lhe tomou a carga dos ombros. Este
 correu muito até o segundo e assim sucessivamente até que todos chegaram com o fogo de
 volta à aldeia.
-
-* * *
-
-O que é Mito
-
-21
 
 Pronto, numa curva do labirinto encontramos
 o mito. Ele nos transmite sensações múltiplas. É uma
 história próxima e distante. Tanto bela quanto direta.
 De tal simplicidade que só pode ser complexa. A meio
 caminho entre a lição e o engano. Tão nítida e tão plena
-de significações, tão abstrata e tão concreta, tão familiar e tão estranha. Assim são os mitos, assim é o mito
-do fogo dos índios jês do Brasil central.
-Aqui os animais falam. Cuidam dos filhos dos homens e estes lhes roubam o fogo. Natureza e cultura
-se encontram e um poderoso saber se espalha. Uma
+de significações, tão abstrata e tão concreta, tão familiar e tão estranha. Assim são os mitos, assim é o mito do fogo dos índios jês do Brasil central.
+
+Aqui os animais falam. Cuidam dos filhos dos homens e estes lhes roubam o fogo. Natureza e cultura se encontram e um poderoso saber se espalha. Uma
 sociedade se expressa e uma forma existencial se perpetua. É o mito com seus enigmas e desafios.
-E a esses desafios muitos pensadores responderam com as mais variadas hipóteses, com teorias mais
-ou menos eficazes. Mas, acima de tudo, com uma sistemática vontade de saber a força que move os mitos.
-Esse mito do fogo que acabamos de ver, só ele, por
+
+E a esses desafios muitos pensadores responderam com as mais variadas hipóteses, com teorias mais ou menos eficazes. Mas, acima de tudo, com uma sistemática vontade de saber a força que move os mitos. Esse mito do fogo que acabamos de ver, só ele, por
 exemplo, foi objeto de várias interpretações.
+
 Terence Turner, um antropólogo americano, escreveu um extenso volume usando apenas uma única
 versão, a dos índios caiapós, com os quais conviveu
 longo tempo. Claude Lévi-Strauss, um dos mais importantes antropólogos contemporâneos, analisou várias
 versões desse mito. O mito do fogo foi de fundamental
-significação ao longo de sua monumental obra Mitológicas. Nela, em quatro volumes e mais de 2000 páginas,
+significação ao longo de sua monumental obra *Mitológicas*. Nela, em quatro volumes e mais de 2000 páginas,
 Lévi­-Strauss produziu a mais famosa análise dos mitos
-
-22
-
-Everardo Rocha
-
 indígenas do Novo Mundo. Numa viagem mitológica
 do “coração da América Tropical” até as regiões setentrionais da América do Norte. Ainda mais, o antropólogo brasileiro Roberto Da Matta também estudou o
 mito do fogo na versão dos índios canelas e fez uma
 instigante comparação com outro mito – o de Auké –
 da mesma sociedade.
+
 Mas esses autores já são o estado atual das análises dos mitos, e só o que realizaram daria para fazer outro livro. Até que eles tivessem entrado em campo, muita
-bola já havia rolado. Eles são o possível da análise mitológica hoje. A esses e outros estudiosos contemporâneos
-se deve o crédito pelo entendimento de diversas significações que os mitos podem adquirir para o ser humano.
+bola já havia rolado. Eles são o possível da análise mitológica hoje. A esses e outros estudiosos contemporâneos se deve o crédito pelo entendimento de diversas significações que os mitos podem adquirir para o ser humano.
+
 Várias foram as tentativas teóricas levadas a efeito na busca de entender o significado do mito. Nesta
 permanente perseguição no intuito de saber o que é o
 mito, várias escolas, correntes de pensamento e linhas
 de pesquisa foram esboçadas em torno dessa pergunta.
-O mito foi um grande desafio intelectual e ainda se coloca como um fenômeno de difícil apreensão para todos
-aqueles que se empenharam na sua discussão.
+O mito foi um grande desafio intelectual e ainda se coloca como um fenômeno de difícil apreensão para todos aqueles que se empenharam na sua discussão.
+
 São conhecidas as teorias de tipo “naturalista”,
 “historicista”, “animista”, “estruturalista”, “psicológica”, etc. Todas elas bastante divergentes entre si e
 apresentando metodologias, objetivos e resultados teóricos com os mais variados graus de eficácia.
 
-O que é Mito
-
-23
-
-Mas dois pontos me parecem importantes e marcam, de certa forma, os estudos do mito. Ambos estão
-ligados a determinados movimentos acontecidos na Antropologia Social. O primeiro deles é quando se introduz
-definitivamente nesta disciplina o “trabalho de campo”.
-O segundo é quando do aparecimento na área do mito
+Mas dois pontos me parecem importantes e marcam, de certa forma, os estudos do mito. Ambos estão ligados a determinados movimentos acontecidos na Antropologia Social. O primeiro deles é quando se introduz definitivamente nesta disciplina o “trabalho de campo”. O segundo é quando do aparecimento na área do mito
 dos estudos iniciais de Lévi-Strauss. É quando ele demonstra a utilidade e o alcance do seu método de análise
 estrutural aplicado à mitologia. São dois momentos marcantes. Vamos começar com o “trabalho de campo”.
-O “trabalho de campo” foi uma importante conquista na Antropologia Social e afetou, por tabela, o
-estudo dos mitos. Essa conquista teve implicações que
+
+O “trabalho de campo” foi uma importante conquista na Antropologia Social e afetou, por tabela, o estudo dos mitos. Essa conquista teve implicações que
 alteraram a postura da disciplina, seja em termos de sua
 metodologia, seja em termos de possíveis desdobramentos teóricos. Chegou, até mesmo, a supor mudanças – no
 limite – filosóficas na forma de a antropologia entender o
 ser humano. Não pretendo me estender muito sobre a
 noção de “trabalho de campo”, pois ela, por si só, justificaria todo um volume da Coleção Primeiros Passos.
+
 Tentando explicar de maneira bastante sintética,
-o “trabalho de campo” significou a hora em que o antropólogo assumiu a posição de estudar as sociedades
-diferentes da sua vivendo com elas o seu dia-a -dia.
+o “trabalho de campo” significou a hora em que o antropólogo assumiu a posição de estudar as sociedades diferentes da sua vivendo com elas o seu dia-a-dia.
+
 O “trabalho de campo” é o nome que se dá a
 esse momento exatamente. Esse momento da saída do
 antropólogo de sua sociedade, entrada e permanência
 na sociedade do “outro”. Esse processo caracteriza,
-
-24
-
-Everardo Rocha
-
-grosso modo, um conhecimento não mais calcado numa
+*grosso modo*, um conhecimento não mais calcado numa
 antropologia “de gabinete”, fechada e distante do seu
 objeto, e inaugura uma antropologia que vai testar seus
 próprios limites no confronto direto com a diferença.
 Em outras palavras, o “trabalho de campo” significa
 uma resolução de largo alcance na disciplina. Através
-dele, a antropologia permitiu a emergência de um conhecimento capaz de respeitar, pelo próprio sentido da
-convivência, as mais variadas formas da existência humana nos mais variados pontos do planeta. Foi um salto
+dele, a antropologia permitiu a emergência de um conhecimento capaz de respeitar, pelo próprio sentido da convivência, as mais variadas formas da existência humana nos mais variados pontos do planeta. Foi um salto
 de qualidade na produção teórica da antropologia. Não
-que se tenha aumentado sensivelmente o volume de informação antropológica. Isso não é o mais fundamental,
-haveria outros métodos para tanto. O que aconteceu,
-de fato, foi uma mudança da “natureza” dessas informações. Um salto qualitativo, mais que quantitativo. O
-antropólogo passava a viver, a ver, a estar e a estudar
+que se tenha aumentado sensivelmente o volume de informação antropológica. Isso não é o mais fundamental, haveria outros métodos para tanto. O que aconteceu,
+de fato, foi uma mudança da “natureza” dessas informações. Um salto qualitativo, mais que quantitativo. O antropólogo passava a viver, a ver, a estar e a estudar
 as sociedades em presença. Como um teatro social, um
 drama existencial vivo e a exigir participação.
+
 Com o “trabalho de campo”, o estudo do mito
 ganhou a dimensão fundamental de se poder acompanhá-lo em funcionamento, sendo usado e vivido, exercendo sua plenitude de força cultural atuante. Com o
 aprofundamento, pelo “trabalho de campo”, do nosso
 saber sobre as sociedades tribais, torna-se transparente uma nova área de significações para o mito.
+
 O segundo ponto importante foi o aparecimento do estruturalismo de Lévi-Strauss. É uma questão
 
-“Trabalho de Campo”
-
-26
-
-Everardo Rocha
+\imagemgrande25
 
 complexa. O chamado estruturalismo não foi “inventado” por ninguém. É um movimento de reflexão que,
 como todos eles, possui as mais variadas raízes e os mais
@@ -530,8 +451,9 @@ mito rendeu inúmeras e fundamentais conseqüências.
 Ela tem seu primeiro momento num artigo pequeno –
 “A Estrutura dos Mitos” – que Lévi-Strauss escreveu
 em 1955 e atinge seu ponto alto nos quatro volumes das
-Mitológicas, aos quais já me referi e que foram publicados entre 1964 e 1971. Nos capítulos seguintes vamos conhecer o método estruturalista de Lévi-Strauss
+*Mitológicas*, aos quais já me referi e que foram publicados entre 1964 e 1971. Nos capítulos seguintes vamos conhecer o método estruturalista de Lévi-Strauss
 acompanhando detidamente o artigo de 1955.
+
 Antes, porém, vamos ver como fica o nosso mito
 do fogo quando visto pela ótica de algumas das mais
 tradicionais escolas de análise mitológica. Vamos, de
@@ -542,9 +464,7 @@ outro e, depois de encontrarmos o mito, vamos apenas
 olhá-lo tal como ficaria refletida sua imagem no espelho
 dessas várias interpretações.
 
-III
-
-Tentando montar o quebra-cabeças
+# Tentando montar o quebra-cabeças
 
 Acho que posso marcar a visão naturalista do
 mito como ponto de partida. Quanto mais não seja
@@ -556,21 +476,17 @@ como forma de compreendê-los e controlá-los. Essa
 teoria, pela sua simplicidade, transforma os mitos em
 uma espécie de tradução narrativa das mais variadas
 peripécias das forças da natureza.
+
 Numa exposição sucinta, a teoria naturalista parte da idéia de que, nos momentos primitivos, na “aurora” da humanidade, os fenômenos naturais marcavam
 fortemente os interesses desse homem “primitivo”
 dada a sua fragilidade frente ao espetáculo, ao quadro,
 dessas forças em ação. Esse interesse tinha um cunho
-
-28
-
-Everardo Rocha
-
 poético, teórico e contemplativo. As regularidades, as
 variedades, as alternâncias dos quadros propiciados pelos fenômenos da natureza eram a fonte para os exercícios simbólicos que se constituíam em mitos.
+
 No meio desse conjunto de corpos celestes e
-forças da natureza, o Sol assume uma posição de destaque como fonte de inspiração mito-poética. Pela sua
-própria situação central em relação à Terra, aos satélites e planetas, era para ele que se voltavam os interesses principais da atividade mítica. Os mitos solares
-desempenhavam um papel primordial.
+forças da natureza, o Sol assume uma posição de destaque como fonte de inspiração mito-poética. Pela sua própria situação central em relação à Terra, aos satélites e planetas, era para ele que se voltavam os interesses principais da atividade mítica. Os mitos solares desempenhavam um papel primordial.
+
 Assim pensavam determinados autores naturalistas do fim do século XIX, e assim pensava Max Müller,
 que se destacou pelos seus importantes estudos da mitologia ariana. Para ele, os arianos construíam seu universo mítico em torno do Sol. Pelo olhar do nascer e do
 pôr-do-sol. Pela constante e permanente recorrência
@@ -578,47 +494,40 @@ dos dias e das noites como um drama de luzes e escuridão. Pela alternância des
 dia a dia, mês a mês, ano a ano, dos seus rebatimentos
 no céu e na terra. Por tudo isso, enfim, ao Sol fazia-se
 objeto principal da mitologia. Astro maior entre corpos
-reais, astro hollywoodiano ocupando o papel destacado
+reais, astro *hollywoodiano* ocupando o papel destacado
 nos mitos. O Sol superstar no duplo sentido.
+
 Mas existiam também os amantes da Lua. Em
 torno dela, dessas idéias e seus desdobramentos, fundou-se em Berlim, em 1906, a famosa Sociedade para o
 Estudo Comparativo do Mito.
 
-O que é Mito
-
-29
-
 Para eles, a Lua é que se constituía no grande
-corpo celeste a ocupar o centro de mitologias diversas. A Lua aparecia como relacionada aos mistérios da
-morte e da ressurreição. Os ritmos e ciclos lunares serviam como tradução para a existência humana. As suas
+corpo celeste a ocupar o centro de mitologias diversas. A Lua aparecia como relacionada aos mistérios da morte e da ressurreição. Os ritmos e ciclos lunares serviam como tradução para a existência humana. As suas
 diferentes fases – nova, cheia, crescente, etc. – serviam
 como modelo, como paradigma das nossas trajetórias
 vividas que incluem sempre em suas fases nascimento,
 crescimento, morte e, de vez em quando, ressurreições
 também. A Lua ainda, ao aparecer no poente e ao sumir no nascer do dia, servia de espelho, espécie de imagem, de ancestrais que transitavam nos mitos.
-E estava declarada “a guerra nas estrelas”. Teorias, provas, métodos, intérpretes e hipóteses lutando
-arduamente pelo seu corpo celeste favorito. Sol, Lua,
+
+E estava declarada “a guerra nas estrelas”. Teorias, provas, métodos, intérpretes e hipóteses lutando arduamente pelo seu corpo celeste favorito. Sol, Lua,
 Vênus, as cores do céu, o vento, a chuva, estrelas em
 geral, o clima, etc., vivenciando a batalha pelo cetro de
 centro do mito. Desde exclusivistas radicais em seus
 astros, até posições conciliadoras, para as quais o cetro
 era de todos os corpos celestes tomados em conjunto
 (seria a posição “mineira”, talvez), havia de tudo.
-De toda essa guerra, alguma coisa, além da própria guerra, sobrava. Era a idéia da difusão histórica.
+
+De toda essa guerra, alguma coisa, além da própria guerra, sobrava. Era a ideia da difusão histórica.
 Em que pese o nascimento, a origem do mito, ser localizado na relação entre o homem “primitivo” e as forças
 naturais, a sua difusão dos núcleos iniciais se dava por
 um caminho historicamente controlável.
 
-30
-
-Everardo Rocha
-
-Essa idéia de um difusionismo mitológico desde
+Essa ideia de um difusionismo mitológico desde
 uma mitologia mais primitiva até as mais recentes, era
 uma espécie de ligação da origem naturalista com a difusão histórica. Alguns autores apontavam a mitologia egípcia como uma das fontes principais de difusão.
-Outros viam na mitologia dos mesopotâmios um sistema completamente desenvolvido quase três milênios
-antes de Cristo e que se difundiu por toda parte em
-épocas subseqüentes.
+Outros viam na mitologia dos mesopotâmios um sistema completamente desenvolvido quase três milênios antes de Cristo e que se difundiu por toda parte em
+épocas subsequentes.
+
 Mas já que falei de difusão histórica, vale a pena
 saber que existiu uma vertente que tomou o mito num
 sentido mais radicalmente histórico. Contrastando
@@ -631,94 +540,74 @@ como conjunto de episódios históricos efetivamente
 acontecidos. O mito visto literalmente como registro
 da história. Não só se difundia historicamente, ele era
 a própria história.
+
 Enquanto tudo isso se processava e a “guerra
 nas estrelas” tomava corpo, uma outra hipótese de trabalho aparecia no campo de reflexões sobre o mito. E
-aparecia pelos estudos de Sir Edward Bunnett Tylor.
+aparecia pelos estudos de *Sir* Edward Bunnett Tylor.
 Tylor era um famoso antropólogo evolucionista, da
 época vitoriana, e suas hipóteses de interpretação do
-
-O que é Mito
-
-31
-
 mito estavam vinculadas, por um lado, aos seus estudos
 sobre religião e, por outro, aos princípios mais gerais da
 evolução das sociedades.
-Sua idéia geral ficou conhecida pelo nome de
+
+Sua ideia geral ficou conhecida pelo nome de
 animismo. Essa hipótese tem como ponto de partida
 o pressuposto de que todos os elementos da natureza
-poderiam ser personificados. Toda a natureza era susceptível de adquirir, para os “primitivos”, um sentido de
-“animação” e “personificação”.
+poderiam ser personificados. Toda a natureza era susceptível de adquirir, para os “primitivos”, um sentido de “animação” e “personificação”.
+
 Ainda mais a experiência humana de representar
 seu próprio espírito, de supor sua alma ou uma duplicidade outra qualquer, permitiria pensar nessa mesma
 possibilidade para o resto do universo. A vivência do
 sonho, do devaneio, da imaginação levaria à pressuposição da duplicidade de uma vida física e uma outra em
 diferente nível. Mais diretamente, a virtual experimentação humana da duplicidade corpo e espírito era o caminho para uma crença que estendia esta duplicidade
 ao mundo não humano.
+
 No nosso mito do fogo, portanto, as várias personificações presentes (as onças, o sapo, as araras) seriam, para a interpretação animista, a constatação da
 crença nesse processo de criar a duplicidade, de espiritualizar, enfim, todos os elementos naturais.
+
 Mas não era só isso; os mitos, para Tylor, supunham dois níveis distintos. No primeiro, entre os “primitivos”, a criação mítica se prestava a um desejo de
-entendimento dos fenômenos naturais. No segundo ní-
-
-32
-
-Everardo Rocha
-
-vel, nas sociedades mais “adiantadas”, ela poderia ser
-o reflexo de acontecimentos históricos e tradições culturais. A teoria animista se dedica a explicar os níveis
+entendimento dos fenômenos naturais. No segundo nível, nas sociedades mais “adiantadas”, ela poderia ser o reflexo de acontecimentos históricos e tradições culturais. A teoria animista se dedica a explicar os níveis
 mais “primitivos” da criação mítica. Até mesmo porque,
 vinculada à postura evolucionista, sua opção de análise
 recaía sobre as sociedades a que chamavam “primitivas”
 e nelas via o mito como “prova”, “retrato” e “fenômeno
 típico” de estágios “infantis” do intelecto humano.
+
 Mas os estudos de Tylor dedicavam-se também à
 religião como um todo. Sabemos que o estudo do mito
 foi, diversas vezes, encompassado pela discussão da religião. Todos aqueles que se voltavam para o fenômeno
 religioso acabavam tendo de refletir, evidentemente,
 sobre as suas manifestações concretas como a crença,
-o mito, os símbolos, o ritual, etc. Essa relação entre esses diversos elementos é o que vai abrir espaço para
-toda uma outra linha de pensamento que procura interligar as idéias de mito e ritual.
+o mito, os símbolos, o ritual, etc. Essa relação entre esses diversos elementos é o que vai abrir espaço para toda uma outra linha de pensamento que procura interligar as ideias de mito e ritual.
+
 Nela se procura relacionar, vincular, contrapor e,
-enfim, entender os dois fenômenos, tomados conjuntamente. Encadear o mito e o ritual e buscar discutir a
-predominância ou o estatuto de um e outro foi o objetivo perseguido por um tipo de interpretação conhecida
-como Escola do Mito e do Ritual.
+enfim, entender os dois fenômenos, tomados conjuntamente. Encadear o mito e o ritual e buscar discutir a predominância ou o estatuto de um e outro foi o objetivo perseguido por um tipo de interpretação conhecida como Escola do Mito e do Ritual.
+
 Aí, como mito e ritual eram partes da questão
 geral da religião, o caso passa a ser procurar mais pelas
-suas diferenças que pelas similaridades. Entre as diferenças sistematicamente enfatizadas aparecem oposi-
-
-O que é Mito
-
-33
-
-ções como a da “palavra” e do “ato”, e da “variedade” e
+suas diferenças que pelas similaridades. Entre as diferenças sistematicamente enfatizadas aparecem oposições como a da “palavra” e do “ato”, e da “variedade” e
 da “permanência”, a da “história” e da “prática”. Todas
 essas diferenças possuem em comum dois aspectos.
 Em primeiro lugar, são bastante óbvias. Em segundo,
-apontam a prioridade do ritual sobre o mito. Essa hierarquia da importância de cada um como fenômeno
-social desemboca num beco sem saída, pois não traz
+apontam a prioridade do ritual sobre o mito. Essa hierarquia da importância de cada um como fenômeno social desemboca num beco sem saída, pois não traz
 maiores rendimentos procurar tomar dois fenômenos
 em conjunto para anular, em seguida, um dos dois.
+
 Em todo caso, valeu pensar o vínculo entre eles
 e é importante frisar que a Escola do Mito e do Ritual,
-com não muitas variações, assumia três hipóteses básicas. A primeira delas era que o mito nascia do ritual
-numa proporção bem maior que o inverso. A segunda é
-que o mito era a dimensão falada do ritual, e este caracterizar-se-ia por ser muito mais constante. Finalmente,
-era nessa relação com o rito que residia a origem do
+com não muitas variações, assumia três hipóteses básicas. A primeira delas era que o mito nascia do ritual numa proporção bem maior que o inverso. A segunda é
+que o mito era a dimensão falada do ritual, e este caracterizar-se-ia por ser muito mais constante. Finalmente, era nessa relação com o rito que residia a origem do
 mito. Evidentemente, acabariam achando um ritual
 que explicasse a origem e o sentido do nosso mito do
 fogo. Na verdade, nosso mito terminaria por ser não
 mais que a versão falada de seu ritual correspondente.
+
 Antes de tocar adiante nesta viagem, acho que
 devemos parar, olhar e dar uma situada geral. É muita
-coisa e forte o risco de se perder no labirinto. Ou perder muitas peças do quebra-cabeças e não mais poder
-montar imagem alguma.
+coisa e forte o risco de se perder no labirinto. Ou perder muitas peças do quebra-cabeças e não mais poder montar imagem alguma.
+
 Já falamos de três visões do mito: “naturalista”,
 “animista” e “mito e ritual”. É inevitável que se tenha
-
-34
-
-Everardo Rocha
-
 a sensação de que elas são insuficientes para entender
 o mito. Elas o são, mesmo, apesar de todo o brilho dos
 seus autores. Algumas me parecem insuficientes pelo
@@ -726,58 +615,47 @@ excesso de arbitrariedade. Outras por levarem a becos
 sem saída ou a falsas questões. De qualquer maneira,
 elas são um esforço de compreensão de um imenso
 desafio intelectual a que o mito conduz. Outra coisa
-difícil de evitar é a sensação de que essas visões se sucederam no tempo. Das mais antigas às mais recentes.
-A rigor, não é bem assim. Elas eram contemporâneas.
+difícil de evitar é a sensação de que essas visões se sucederam no tempo. Das mais antigas às mais recentes. A rigor, não é bem assim. Elas eram contemporâneas.
 Todas mais ou menos da virada do século XIX para o
 século XX. Eram alternativas de se pensar o mito naquele momento.
+
 O naturalismo, por exemplo, teve dois piques
 importantes. O primeiro, com Max Müller, na metade do século XIX. O segundo, com a “Sociedade para
 o Estudo Comparativo do Mito”, em torno de 1906,
 ano da sua fundação. Tylor, por outro lado, desenvolve as idéias da teoria animista num importante livro,
-Culturas primitivas, de 1871. Ali, o animismo se coloca
-como alternativa às idéias de Max Müller. Esse “primeiro” naturalismo estava marcado sensivelmente pela
-idéia de que a mitologia derivava de um “engano de linguagem”. Entendia ele que o fato de um nome numa
-Iíngua poder indicar diversos objetos e, inversamente,
-um objeto poder ser designado por uma pluralidade de
+*Culturas primitivas*, de 1871. Ali, o animismo se coloca
+como alternativa às idéias de Max Müller. Esse “primeiro” naturalismo estava marcado sensivelmente pela ideia de que a mitologia derivava de um “engano de linguagem”. Entendia ele que o fato de um nome numa Iíngua poder indicar diversos objetos e, inversamente, um objeto poder ser designado por uma pluralidade de
 nomes, permitia a operação de transformação de um
 deus separado em vários, ou vários compostos em um.
-
-O que é Mito
-
-35
-
 Dessa operação derivava a mitologia e inferia dela que
 o Sol podia aparecer nos mitos de muitas maneiras.
+
 O “segundo” naturalismo, o de 1906, já buscava
 equacionar a idéia da difusão histórica na teoria, e passava do Sol à Lua na preferência. Nesse bate­bola mitológico, a Escola Mito e Ritual também tem seus primeiros indícios ainda no século XIX, com os trabalhos
 sobre a religião semita de Robertson Smith publicados
 em 1894.
+
 É com o estado das coisas nesse pé que vai aparecer uma nova contribuição extremamente significativa para a Antropologia Social como um todo e para a
 interpretação do mito em particular. No capítulo anterior, eu havia falado de dois fatos que vieram a marcar
 profundamente o estudo da mitologia. Um deles era o
 estruturalismo de Lévi-Strauss; que veremos no próximo cápítulo. Outro era o aparecimento, dentro da Antropologia Social, de uma nova prática metodológica, o
 “trabalho de campo”.
+
 Com ele, uma possibilidade até então não pensada de estudar o mito vivo e atuante na prática social. O
 “trabalho de campo” tem, na antropologia, uma espécie de marco clássico ligado a um pesquisador e a uma
 sociedade pesquisada. O pesquisador é Malinowski. Os
 pesquisados são os habitantes das ilhas Trobriand. Malinowski vai viver nessas ilhas, em períodos diversos, um
 total de quase três anos (31 meses, exatamente), entre
 1914 e 1918. Ali, conhece o cotidiano dos trobriandeses,
-
-36
-
-Everardo Rocha
-
-suas festas, sua religião, sua estrutura social e, o principal para nós, seus mitos. Pelo “trabalho de campo”
-e, a partir dele, muda-se essencialmente a perspectiva
+suas festas, sua religião, sua estrutura social e, o principal para nós, seus mitos. Pelo “trabalho de campo” e, a partir dele, muda-se essencialmente a perspectiva
 de estudo da vida social. Numa palavra, o antropólogo
 “está” nela irremediavelmente. Isso propicia uma visão
 deslocada dos preconceitos que carrega e imersa na
 existência da “outra” sociedade. Como já disse no capítulo anterior, a questão do “trabalho de campo”, ela só,
-daria um outro livro. De fato, existe muita literatura sobre o assunto. O que é profundamente marcante para
-nós neste livro é que, com a sua prática daí em diante e
+daria um outro livro. De fato, existe muita literatura sobre o assunto. O que é profundamente marcante para nós neste livro é que, com a sua prática daí em diante e
 continuadamente, ele vai passar a ser algo que dará ao
 mito dimensões até então insuspeitadas.
+
 O “trabalho de campo” nos dá o mito na sua concretude social. Vivo como força cultural, vivido como
 prática entre os que nele acreditam. Pleno de significações, usos, comentários, possibilidades, pensamentos
 e práticas a ele atreladas no seu destino de ser entre
@@ -789,13 +667,9 @@ do mito sem consagrar a importância do conhecimento “etnográfico”. Ou seja
 nos “trabalhos de campo” feitos com a sociedade de
 onde se retirou determinado mito.
 
-O que é Mito
-
-37
-
 O “trabalho de campo” ou a “etnografia” de
-uma sociedade definitivamente colou, para a antropologia, com a possibilidade de interpretação do mito.
-Passa a ser um de seus elementos, uma de suas “chaves” interpretativas.
+uma sociedade definitivamente colou, para a antropologia, com a possibilidade de interpretação do mito. Passa a ser um de seus elementos, uma de suas “chaves” interpretativas.
+
 Mas naqueles anos 1920, quando publica muitos
 de seus trabalhos, Malinowski adotou uma perspectiva um tanto “funcional” demais em relação ao mito.
 Acabou, talvez, mais real que o próprio rei e reduziu
@@ -803,6 +677,7 @@ a mitologia a um certo tipo de “dieta” existencial. Em
 outras palavras, assumiu o mito como guia do cotidiano
 radicalmente pronto a ser usado como “bíblia” para o
 funcionamento social.
+
 Em que pese essa visão do “mito funcional”, que
 será mais matizada, refinada, transformada, por outros
 antropólogos nos anos posteriores, Malinowski definitivamente nos deixou uma herança valiosa para desvendar o enigma do mito. Naquele momento, ele mostrou
@@ -814,13 +689,9 @@ não é tão funcional assim. Nem o mito nem nada, a
 bem da verdade, é tão funcional assim. Mas também,
 a bem da verdade, malgrado a inflação funcionalista, o
 seu excesso, não mais se pode, na antropologia, inter-
-
-38
-
-Everardo Rocha
-
 pretar mitos desprezando os contextos existenciais, as
 “etnografias”, das sociedades de onde eles provêm.
+
 Mas, a questão do mito ainda será enriquecida
 nesse período. Completando o quadro de interpretações, é importante conhecer alguns aspectos centrais
 da linha psicanalítica de estudos de mito. Com ela uma
@@ -833,21 +704,19 @@ múltiplos movimentos de interiores. Próximo do sonho,
 da fantasia, do devaneio. O mito é o produto do inconsciente. Neste lugar se origina, neste lugar se processa.
 Nele também se realiza. Ainda mais, é do inconsciente
 uma forma de expressão.
-As idéias mais fundamentais provindas da linha
+
+As ideias mais fundamentais provindas da linha
 psicanalítica estão vinculadas a dois nomes não menos
 fundamentais na psicanálise como um todo.
+
 O primeiro deles é o de Freud, o segundo, o de
 Jung. Vou acompanhar agora mais de perto as idéias de
-Jung sobre o mito. De Freud falarei no próximo capítulo, quando veremos algumas interpretações do mito
-de Édipo.
+Jung sobre o mito. De Freud falarei no próximo capítulo, quando veremos algumas interpretações do mito de Édipo.
+
 A interpretação dos mitos na linha junguiana só
 pode ser entendida quando relacionada à sua noção
 
-Bronislaw Malinowski
-
-40
-
-Everardo Rocha
+\imagemgrande39
 
 de inconsciente coletivo. Essa categoria de inconsciente coletivo é uma das categorias, dos conceitos,
 centrais na obra de Jung. Inconsciente coletivo é a camada mais profunda da mente humana. Se pensarmos
@@ -859,6 +728,7 @@ do ser, que se encontra presente nas nossas mentes
 individuais. Em outras palavras, é algo que pertence à
 humanidade em geral e que se atualiza em cada uma
 de nossas vidas particulares.
+
 Se um dos inúmeros pacientes de Jung sonhasse,
 por exemplo, com os homens roubando o fogo que as
 onças possuíam, ele provavelmente veria aí mais uma
@@ -871,38 +741,25 @@ Jung era demonstrar que um mesmo conjunto de mitos
 e símbolos aparece em várias sociedades ao redor da
 Terra. Povos separados no espaço, distantes no tempo,
 diferentes na cultura produziram imagens, figuras míticas e simbologias muito semelhantes.
+
 Com essa longa explicação quase nos perdemos
-do mito. Mas ela é necessária, pois vai ser exatamen-
-
-O que é Mito
-
-41
-
-te nesse inconsciente coletivo que Jung vai achar sua
-interpretação para o mito. O inconsciente coletivo
+do mito. Mas ela é necessária, pois vai ser exatamente nesse inconsciente coletivo que Jung vai achar sua interpretação para o mito. O inconsciente coletivo
 manifesta-se em padrões que ele chama, usando uma
-expressão de Santo Agostinho, de “arquétipos”. O arquétipo significa um determinado tipo de “impressão”
-psíquica, como se fosse uma marca ou imagem. Um
+expressão de Santo Agostinho, de “arquétipos”. O arquétipo significa um determinado tipo de “impressão” psíquica, como se fosse uma marca ou imagem. Um
 conjunto de caracteres que, em sua forma e significado, são portadores de motivos mitológicos arcaicos.
-Aí está, pois, o sentido do mito. Conteúdo e manifestação do inconsciente coletivo. Encontrado nas mais
-diversas culturas humanas e, num passe de mágica
+Aí está, pois, o sentido do mito. Conteúdo e manifestação do inconsciente coletivo. Encontrado nas mais diversas culturas humanas e, num passe de mágica
 arquetípica, reencontrado no mais fundo da cuca de
 cada um de nós. O mito para Jung é uma questão de
 interiores da mente. Ali se origina, ali se manifesta.
-Reflete-se na exterioridade cultural, nasce na interioridade psíquica. Está expresso em muitos lugares e
-habita apenas aqui dentro.
+Reflete-se na exterioridade cultural, nasce na interioridade psíquica. Está expresso em muitos lugares e habita apenas aqui dentro.
+
 Assim, das “forças naturais” ao “animismo”, do
-“ritual” à “funcionalidade” ou ao “inconsciente coletivo”, o mito está, inabalavelmente, em muitos lugares.
-Para todos ele olha e a todos desafia. O mito, como
+“ritual” à “funcionalidade” ou ao “inconsciente coletivo”, o mito está, inabalavelmente, em muitos lugares. Para todos ele olha e a todos desafia. O mito, como
 enigma, contempla o ser humano.
+
 Vimos pouco, no entanto. Ainda há muita estrada, surpresas no labirinto, difíceis encaixes no quebracabeças. A “barra” teórica vai pesando e as interpretações se complexificam. Pequena pausa e seguir viagem.
 O nosso mito do fogo se desdobrou pelo menos em
 cinco dimensões. Pode estar dentro, no fundo de nós.
-
-42
-
-Everardo Rocha
-
 Pode estar no Sol. Pode estar no ritual. Pode estar na
 personificação animista. Pode estar na função social.
 Pode não estar em parte alguma. O jogo continua. Novas interpretações, novos mitos. Vamos agora conhecer
@@ -912,10 +769,7 @@ grego. Uma caixa dentro da outra, uma interpretação
 atrás da outra. Um desafio que permanece mexendo
 com o pensamento.
 
-IV
-
-Édipo: as interpretações
-de um supermito
+#Édipo: as interpretações de um supermito
 
 Édipo, a triste sina de um dos mais desventurados príncipes que jamais existiu. Édipo, uma lembrança
 mitológica grega, como permanente desafio ao pensamento. Édipo, uma clássica tragédia teatral, como testemunho vivo da magnitude que se pode extrair de um
